@@ -1,0 +1,10 @@
+.card{
+    overflow: hidden;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+
+   
+}
